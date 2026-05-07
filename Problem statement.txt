@@ -1,0 +1,4 @@
+Multilayer perceptron for full MNIST 
+Write a PyTorch program to: 
+a. Load the full MNIST dataset with DataLoader. 
+b. Build an MLP with at least two hidden layers and ReLU, train it with cross‑entropy loss, and report accuracy and confusion matrix on the test set. 
